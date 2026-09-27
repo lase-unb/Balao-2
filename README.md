@@ -42,6 +42,7 @@ Balao-Base/
 │   ├── build/                            Artefatos do PyInstaller (versionados)
 │   └── dist/                             tracker.exe + logs de missão (versionados)
 ├── logs/                                 Logs de telemetria de voos realizados
+├── Voo_19_09_2026/                       Dados e análises do voo de 19/09/2026
 ├── config.txt                            Configuração do OpenLog (copiar para o SD)
 └── README.md
 ```
